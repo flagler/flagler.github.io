@@ -1,0 +1,57 @@
+.main {
+  padding-top: 9vh;
+  background-image: url("../../images/shop2.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.door {
+  width: 14vw;
+  height: 50vh;
+  margin-top: 30vh;
+  margin-left: 14vw;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+}
+
+.door:hover,
+.window1:hover,
+.window2:hover,
+.window3:hover {
+  color: yellow;
+  transition: 0.3s;
+}
+
+.door:hover {
+  margin-top: 33vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  transition: 0.8s;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.window1 {
+  margin-top: 44vh;
+  margin-left: 20vw;
+}
+
+.window2 {
+  margin-top: 44vh;
+  margin-left: 7vw;
+}
+
+.window3 {
+  margin-top: 44vh;
+  margin-left: 4vw;
+}
