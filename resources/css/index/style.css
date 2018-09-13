@@ -54,3 +54,11 @@
   align-items: center;
   margin: 5vh auto;
 }
+
+.reviews {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 50vw;
+  height: 30vh;
+}
