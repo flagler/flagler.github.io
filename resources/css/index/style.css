@@ -1,3 +1,5 @@
+
+
 .main {
   padding-top: 9vh;
   background-image: url("../../images/shop2.jpg");
@@ -5,53 +7,22 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.door {
-  width: 14vw;
-  height: 50vh;
-  margin-top: 30vh;
-  margin-left: 14vw;
-  color: white;
   display: flex;
   justify-content: center;
-  align-items: center;
+}
+.bigtron {
+  margin-top: 20vh;
+  background-color: rgba(35, 94, 255, 0.8);
+  color: white;
+  padding: 2vh;
+  border-radius: 2vh;
   text-align: center;
 }
 
-.main {
-  display: flex;
+.bigtron h1 {
+  font-size: 7vh;
 }
 
-.door:hover,
-.window1:hover,
-.window2:hover,
-.window3:hover {
-  color: yellow;
-  transition: 0.3s;
-}
-
-.door:hover {
-  margin-top: 33vh;
-  background-color: rgba(0, 0, 0, 0.6);
-  transition: 0.8s;
-}
-
-a:hover {
-  text-decoration: none !important;
-}
-
-.window1 {
-  margin-top: 44vh;
-  margin-left: 20vw;
-}
-
-.window2 {
-  margin-top: 44vh;
-  margin-left: 7vw;
-}
-
-.window3 {
-  margin-top: 44vh;
-  margin-left: 4vw;
+.location-title {
+  font-size: 5vh;
 }
