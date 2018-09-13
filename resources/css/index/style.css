@@ -46,6 +46,7 @@
   flex-direction: column;
   margin: 10vh auto;
   justify-content: center;
+  align-items: center;
 }
 
 .mapouter {
