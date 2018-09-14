@@ -7,6 +7,7 @@
   background-size: cover;
   display: flex;
   justify-content: center;
+  border-bottom: 0.5vh solid #ff84ee;
 }
 .bigtron {
   margin-top: 20vh;
@@ -33,6 +34,47 @@
   justify-content: center;
   align-items: center;
 }
+
+/* Menus */
+
+.visual-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.menus {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.menu,
+.img-dark {
+  display: flex;
+  flex-direction: column;
+  width: 34vw;
+  justify-content: center;
+  align-items: center;
+  z-index: 3;
+}
+
+.menu-title {
+  position: absolute;
+  color: white;
+}
+
+.img-dark {
+  background-color: (0, 0, 0, 0.7);
+  z-index: 5;
+}
+
+.menu:hover {
+  opacity: 0.7;
+  transition: 0.5s;
+}
+
+.
 
 /* Location */
 

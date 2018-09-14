@@ -16,6 +16,7 @@ body {
 
 .navbar {
   background-color: #63bfe8 !important;
+  border-bottom: 0.5vh solid #ff84ee;
 }
 
 .nav-link {
