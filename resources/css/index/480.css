@@ -26,7 +26,8 @@ iframe {
 }
 
 .card,
-.card-header {
+.card-header,
+.reviews {
   display: none;
 }
 

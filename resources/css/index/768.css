@@ -1,0 +1,20 @@
+.bigtron {
+  border-radius: 0;
+}
+
+.navbar-brand {
+  width: 20vw;
+}
+
+iframe {
+  width: 500px;
+  height: 500px;
+}
+
+.mapouter,
+.location-div {
+  width: 500px !important;
+}
+
+.reviews {
+  display: none;
