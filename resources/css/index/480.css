@@ -1,0 +1,45 @@
+.navbar-brand {
+  width: 35vw;
+}
+
+.bigtron {
+  border-radius: 0;
+}
+
+.menus {
+  flex-direction: column;
+}
+
+.menu,
+.img-dark {
+  width: 100%;
+}
+
+iframe {
+  width: 320px;
+  height: 450px;
+}
+
+.mapouter {
+  width: 320px !important;
+  height: 450px !important;
+}
+
+.card,
+.card-header {
+  display: none;
+}
+
+.left {
+  max-width: 50vw;
+  text-align: left;
+  line-height: 1;
+}
+
+.right {
+  max-width: 50vw;
+  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

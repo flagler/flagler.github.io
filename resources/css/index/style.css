@@ -53,7 +53,7 @@
 .img-dark {
   display: flex;
   flex-direction: column;
-  width: 34vw;
+  width: 1/3;
   justify-content: center;
   align-items: center;
   z-index: 3;

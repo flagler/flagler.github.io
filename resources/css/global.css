@@ -29,3 +29,32 @@ body {
 }
 
 /* #63bfe8 #73b2bb */
+
+/* Footer */
+
+footer {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-size: 2.5vh;
+  background-color: #63bfe8;
+  height: 10vh;
+  border-top: 0.5vh solid #ff84ee;
+  border-bottom: 0.5vh solid #ff84ee;
+}
+
+.leftnright {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-between;
+}
+
+.left {
+  margin-right: 2vw;
+}
+
+.right {
+  margin-left: 2vw;
+}
