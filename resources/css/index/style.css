@@ -109,8 +109,8 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 50vw;
-  height: 30vh;
+  width: auto;
+  height: auto;
   font-size: 2vh;
   display: flex;
   justify-content: center;
