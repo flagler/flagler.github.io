@@ -1,6 +1,6 @@
 .main {
-  padding-top: 9vh;
-  background-image: url("../../images/shop2.jpg");
+  margin-top: 9vh;
+  background-image: url("../../images/background.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -13,13 +13,13 @@
 .droplink {
   font-style: italic;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 .bigtron {
-  margin-top: 20vh;
-  background-color: rgba(35, 94, 255, 0.8);
-  color: white;
+  margin-top: 22vh;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
   padding: 2vh;
   border-radius: 2vh;
   text-align: center;
