@@ -1,0 +1,44 @@
+.main {
+  margin-top: 9vh;
+  backgroudnd-image: url("../../images/About_backdrop.JPG");
+  height: 20vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  border-bottom: 0.5vh solid #ff84ee;
+}
+
+.bigtron {
+  margin-top: 6vh;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2vh;
+}
+
+/* About Text*/
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-text {
+  display: flex;
+  text-align: left;
+  width: 60vw;
+  font-size: 2.5vh;
+  margin-top: 5vh;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+img {
+  width: 30vw;  
+}
