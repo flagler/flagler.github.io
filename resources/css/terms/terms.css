@@ -1,0 +1,29 @@
+.terms-section {
+  margin-top: 15vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 15vh;
+}
+
+.terms-section-title {
+  font-size: 6vh;
+  margin-bottom: 5vh;
+  text-align: center;
+}
+
+.terms-sections {
+  display: flex;
+  width: 80vw;
+  margin: 2vh auto;
+  flex-direction: column;
+}
+
+.term-section-title {
+  font-size: 3.5vh;
+  color: #32c1a7;
+}
+
+.term-section-content {
+  font-size: 2.5vh;
+}
