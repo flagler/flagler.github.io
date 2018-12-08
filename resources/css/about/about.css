@@ -1,13 +1,21 @@
 .main {
   margin-top: 9vh;
-  background-image: url("../../images/about.JPG");
-  height: 81vh;
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
   background-position: center;
   opacity: 0.8;
+  margin-bottom: 5vh;
+}
+
+#img {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.5vh solid #ff84ee;
+  border-radius: 5vh;
 }
 
 .bigtron {
