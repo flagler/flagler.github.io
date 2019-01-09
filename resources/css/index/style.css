@@ -10,6 +10,10 @@
   border-bottom: 0.5vh solid #ff84ee;
 }
 
+#phone {
+  font-size: 3vh;
+}
+
 .droplink {
   font-style: italic;
   text-decoration: none;
